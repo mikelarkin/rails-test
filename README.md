@@ -2,7 +2,7 @@
 
 This code exercise is intended to evaluate your software engineering skills but also give you an introduction into the types of problems we solve at Bold Penguin. Your solution will be evaluated based on the ability to produce intended results, cleanliness, adherence to best practices, maintainability, and readability. You should write code like you would if this were an actual assignment. You do not need to gold plate your solution, but we are looking for something more than a script. Ideally your solution would demonstrate your understand of object-oriented principles and best practices.
 
-# The Agent Matching problem
+# Helpful Information
 There are 2 important entities that work together in commercial insurance.
 
 **Carriers** create commercial insurance products. Commercial insurance carriers selectively choose which industries they sell commercial insurance policies to. That is to say, depending on the industry a business is in, you may find that some commercial insurance carriers won’t sell you a policy. For example, FarmInsure will underwrite a policy if the business’s industry is peanut farming, but will not sell a policy if the industry is building construction.
